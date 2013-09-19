@@ -1,4 +1,4 @@
-RecommendationsSys
+Recommendation System
 ==================
 
-A recommendation System prototype for www.dianping.com
+A Recommendation System prototype for www.dianping.com
